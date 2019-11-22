@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CriminalIntent</string>
     <string name="date_picker_title">Fecha del crimen:</string>
+    <string name="new_crime">Nuevo Crimen</string>
+    <string name="show_subtitle">Mostrar subtitulo</string>
+    <string name="hide_subtitle">Ocultar subtitulo</string>
+    <string name="subtitle_forma">%1$s crimes</string>
 </resources>
